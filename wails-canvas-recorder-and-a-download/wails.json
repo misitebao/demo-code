@@ -1,0 +1,20 @@
+{
+  "name": "a-download",
+  "frontend:build": "npm run build",
+  "frontend:install": "npm install",
+  "frontend:dev": "",
+  "wailsjsdir": "./frontend",
+  "version": "2",
+  "Path": "",
+  "BuildDir": "",
+  "outputfilename": "a-download.exe",
+  "OutputType": "",
+  "Platform": "",
+  "Author": {
+    "name": "misitebao",
+    "email": "i@misitebao.com"
+  },
+  "debounceMS": 100,
+  "devserverurl": "http://localhost:34115",
+  "appargs": ""
+}
